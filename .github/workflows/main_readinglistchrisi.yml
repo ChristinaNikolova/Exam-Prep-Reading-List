@@ -59,4 +59,4 @@ jobs:
           app-name: 'readinglistchrisi'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FB118317E0584D9D9F8C96B155F8368D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E36CFF08A4164B678CE9887C5859EF2D }}
